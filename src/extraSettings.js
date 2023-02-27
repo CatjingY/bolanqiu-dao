@@ -6,10 +6,10 @@
 let extraScore = 1;
 
 // 无敌模式：true 改为 false
-let wuDi = true;
+let wuDi = false;
 
 // 第一个水果：修改数字为 0-10, 0 为葡萄，9 为半个西瓜
-let firstFruit = 0;
+let firstFruit = 10;
 
 // 水果合成反转：false 改为 true
 let reverseLevelUp = true;
